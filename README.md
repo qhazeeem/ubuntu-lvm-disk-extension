@@ -1,6 +1,7 @@
 Ubuntu LVM Disk Extension Script
 A bash script to safely extend Ubuntu LVM logical volumes to use all available disk space.
-Overview
+
+**Overview**
 This script automates the process of extending a disk partition and LVM logical volume in Ubuntu systems. It's particularly useful when you've expanded a virtual machine's disk or added more physical storage and want to extend your root filesystem to use the additional space.
 
 **Features**
@@ -121,3 +122,4 @@ This tool is for educational and ethical testing purposes only. Always obtain pr
 
 
 Give a ⭐️ if this project helped you!
+
